@@ -16,7 +16,7 @@ app = Client(
 s = Session()
 pattern: str = r"(http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)"
 DEV = InlineKeyboardMarkup([
-    [InlineKeyboardButton("- المطور -", user_id=6673736816)]
+    [InlineKeyboardButton("- المطور -", user_id=1213559434)]
 ])
 
 @app.on_message(filters.command("start"))
