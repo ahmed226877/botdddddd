@@ -1,14 +1,14 @@
 {
-	"name": "noor",
+	"name": "𝒲𝒪ℛ𝒦",
 	"description": "A TeleGramBot to send messages secretly!",
-	"logo": "https://te.legra.ph/file/97eb031e04406cb4212e0.jpg",
+	"logo": "https://telegra.ph/file/567adb9b8c201a140a745.jpg",
 	"keywords": [
 		"telegram",
 		"bot",
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/nornorno/bbbo",
+	"repository": "https://github.com/ahmed226877/botdddddd",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
